@@ -4,13 +4,6 @@
 *.out
 *.app
 
-*
-!*.c
-!*.py
-!*.md
-!.gitignore
-!LICENSE
-
 ### Python ###
 __pycache__/
 *.py[cod]
